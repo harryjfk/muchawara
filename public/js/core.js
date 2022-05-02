@@ -1,0 +1,9 @@
+var user_gift_sent                                  = 'has sent you a gift';
+	var admin_set_default_photo                         = 'Photo moved to alubm by admin.';
+	var admin_deleted_photo                             = 'Photo deleted By admin';
+	var fortumo_payment_processing                      = 'Fortumo payemnt is being processed.';
+	var fortumo_credits_payment_processing_completed    = 'Fortumo payment successfull. Credits purchased.';
+	var fortumo_superpower_payment_processing_completed = 'Fortumo payment successfull. Superpower activated.';
+	var photo_comment                                   = 'has commented on your photo.';
+	var photo_comment_reply                             = 'has replied on your photo comments';
+	var user_accepted_pvt_photos_request                = 'accepted your private photo request';
