@@ -1,0 +1,3 @@
+[07-Jun-2018 11:52:55 America/Chicago] PHP Fatal error:  Class 'App\Components\PluginAbstract' not found in /home/solvisse/public_html/muchawara.com/app/Plugins/ContentModerationPlugin/ContentModerationPlugin.php on line 13
+[07-Jun-2018 11:58:15 America/Chicago] PHP Fatal error:  Class 'App\Components\PluginInstall' not found in /home/solvisse/public_html/muchawara.com/app/Plugins/ContentModerationPlugin/ContentModerationPluginInstall.php on line 11
+[07-Jun-2018 17:32:03 America/Chicago] PHP Fatal error:  Class 'App\Components\PluginAbstract' not found in /home/solvisse/public_html/muchawara.com/app/Plugins/ContentModerationPlugin/ContentModerationPlugin.php on line 13

@@ -1,0 +1,27 @@
+<?php 
+return
+array (
+  'search_activation_duration_placeholder' => 'Enter User Search Active Duration(days)',
+  'search_activation_duration_title' => 'User Search Active Duration(days)',
+  'search_activation_credits_placeholder' => 'Enter User Search  Activation Credits',
+  'search_activation_credits_title' => 'User Search  Activation Credits',
+  'user_search_settings_title' => 'Setup your user search credits and duration',
+  'user_search_settings_header' => 'User Search Settings',
+  'days' => 'days',
+  'admin_menu_text' => 'User Search Settings',
+  'theme_menu_text' => 'Search Users',
+  'search_already_activated_error_text' => 'User search feature activated already',
+  'search_success_text' => 'Users retrived successfully',
+  'search_not_activated_error_text' => 'User search feature not activated',
+  'empty_keyword_error_text' => 'Search keyword is required',
+  'user_search_activate_low_balance' => 'Low credit balance. Refill your credits to activate user search.',
+  'user_search_activate_success' => 'User search feature activated successfully',
+  'activate_search_btn' => 'Activate Search',
+  'you_will_be_deducted_part_one' => 'You will be deducted',
+  'you_will_be_deducted_part_two' => 'credits for ',
+  'load_more' => 'Load More',
+  'users_found' => 'users found !!',
+  'total' => 'Total',
+  'search_through_users' => 'Search through users. Start typing..',
+  'search_users_keyword_placeholder' => 'Search for users..',
+);

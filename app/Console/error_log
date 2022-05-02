@@ -1,0 +1,3 @@
+[06-Jun-2018 17:08:21 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/solvisse/public_html/muchawara.com/app/Console/Kernel.php on line 9
+[06-Jun-2018 23:43:54 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/solvisse/public_html/muchawara.com/app/Console/Kernel.php on line 9
+[07-Jun-2018 02:24:07 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/solvisse/public_html/muchawara.com/app/Console/Kernel.php on line 9

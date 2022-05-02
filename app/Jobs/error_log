@@ -1,0 +1,9 @@
+[06-Jun-2018 14:58:10 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20
+[06-Jun-2018 20:00:57 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20
+[06-Jun-2018 20:29:47 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20
+[06-Jun-2018 23:40:19 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20
+[07-Jun-2018 02:20:26 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20
+[07-Jun-2018 02:22:40 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20
+[07-Jun-2018 05:42:25 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20
+[07-Jun-2018 08:25:13 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20
+[07-Jun-2018 14:18:49 America/Chicago] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/solvisse/public_html/muchawara.com/app/Jobs/Job.php on line 20

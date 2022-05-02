@@ -1,0 +1,1 @@
+[07-Jun-2018 00:06:22 America/Chicago] PHP Fatal error:  Class 'App\Repositories\SocialLoginRepository' not found in /home/solvisse/public_html/muchawara.com/app/Custom/Repositories/InviteRepository.php on line 18

@@ -1,0 +1,13 @@
+[06-Jun-2018 21:36:09 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/BaseServiceProvider.php on line 10
+[06-Jun-2018 21:36:36 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/AdminServiceProvider.php on line 7
+[06-Jun-2018 21:36:49 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/EventServiceProvider.php on line 10
+[06-Jun-2018 21:37:15 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/AppServiceProvider.php on line 11
+[06-Jun-2018 21:37:28 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/AuthServiceProvider.php on line 9
+[06-Jun-2018 21:37:54 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/RouteServiceProvider.php on line 9
+[06-Jun-2018 21:39:12 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/PluginServiceProvider.php on line 8
+[07-Jun-2018 05:44:11 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/AppServiceProvider.php on line 11
+[07-Jun-2018 05:45:14 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/PluginServiceProvider.php on line 8
+[07-Jun-2018 08:29:42 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/AppServiceProvider.php on line 11
+[07-Jun-2018 08:29:55 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/PluginServiceProvider.php on line 8
+[07-Jun-2018 14:33:08 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/PluginServiceProvider.php on line 8
+[07-Jun-2018 17:25:45 America/Chicago] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/solvisse/public_html/muchawara.com/app/Providers/PluginServiceProvider.php on line 8
